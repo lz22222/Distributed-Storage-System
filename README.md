@@ -116,3 +116,5 @@ server.registerService(exampleService);
 server.start();
 raftNode.init();
 ```
+
+<img width="1440" alt="🌟" src="https://github.com/user-attachments/assets/01d05e88-45df-4129-910a-196ea658fbda" />
