@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf12b067-d38b-4fe4-ab8b-593fe1e959ac" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="$PROJECT_DIR$/../apache-maven-3.6.1" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2dgKuiqbBlCG4Jly1DpjaKkhNko" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;GenProtobuf.javaLoc&quot;: &quot;.&quot;,
+    &quot;GenProtobuf.quickGen&quot;: &quot;Java&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/Desktop/资料/项目/MyMQ消息队列/mymq/mymq&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;a1e941da1ad0828b01cef98b1a578f9f&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\raft\web-client\bin" />
+      <recent name="D:\raft\web-client\src\main\java\com\github\raftimpl\raft\service" />
+      <recent name="D:\raft\raft-java-core\src\main\java\com\github\raftimpl\raft\proto" />
+      <recent name="D:\raft\raft-java-example\src\main\java\com\github\raftimpl\raft\example\server\service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\raft\web-client\arthas-tunnel-server" />
+      <recent name="D:\raft\web-client\jstat" />
+      <recent name="D:\raft\web-client" />
+      <recent name="D:\raft\web-client\src\main\bin" />
+      <recent name="D:\raft\raft-java-example\lib" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.github.raftimpl.raft.example.server.machine" />
+      <recent name="com.github.raftimpl.raft.service" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ClientMain_Test">
+    <configuration name="ClientMain" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.raftimpl.raft.example.client.ClientMain" />
+      <module name="raft-java-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.raftimpl.raft.example.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClientMain1" />
+      <module name="web-client" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;list://192.168.227.117:8051,192.168.227.117:8052,192.168.227.117:8053&quot; hello" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientMain_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.raftimpl.raft.example.client.ClientMain_Test" />
+      <module name="raft-java-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.raftimpl.raft.example.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.raftimpl.raft.example.server.ServerMain" />
+      <module name="raft-java-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.raftimpl.raft.example.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="web-client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test2" />
+      <module name="web-client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClientMain" />
+      <item itemvalue="Application.ServerMain" />
+      <item itemvalue="Application.ClientMain_Test" />
+      <item itemvalue="Application.Test2" />
+      <item itemvalue="Application.ClientMain1" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientMain_Test" />
+        <item itemvalue="Application.ServerMain" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ClientMain1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf12b067-d38b-4fe4-ab8b-593fe1e959ac" name="Changes" comment="" />
+      <created>1710424506059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710424506059</updated>
+      <workItem from="1710424507143" duration="1048000" />
+      <workItem from="1710425744063" duration="382000" />
+      <workItem from="1710462229202" duration="50000" />
+      <workItem from="1710465073282" duration="2594000" />
+      <workItem from="1710471872036" duration="28000" />
+      <workItem from="1710471915039" duration="2912000" />
+      <workItem from="1710486256512" duration="5913000" />
+      <workItem from="1710680394874" duration="7252000" />
+      <workItem from="1710721456493" duration="4732000" />
+      <workItem from="1711177119455" duration="7286000" />
+      <workItem from="1711194061752" duration="7740000" />
+      <workItem from="1711202294830" duration="257000" />
+      <workItem from="1711411349837" duration="12535000" />
+      <workItem from="1711432953621" duration="17000" />
+      <workItem from="1711433020124" duration="10182000" />
+      <workItem from="1711454982493" duration="4754000" />
+      <workItem from="1711460737943" duration="428000" />
+      <workItem from="1711845118626" duration="7773000" />
+      <workItem from="1711853976613" duration="3478000" />
+      <workItem from="1711866755867" duration="8769000" />
+      <workItem from="1711888156931" duration="7177000" />
+      <workItem from="1711931200964" duration="228000" />
+      <workItem from="1711961470537" duration="19000" />
+      <workItem from="1712020947733" duration="47000" />
+      <workItem from="1713516676866" duration="88000" />
+      <workItem from="1715825958529" duration="6061000" />
+      <workItem from="1715840767083" duration="1427000" />
+      <workItem from="1715845034431" duration="754000" />
+      <workItem from="1715846528648" duration="976000" />
+      <workItem from="1715847780829" duration="1775000" />
+      <workItem from="1715865584341" duration="15000" />
+      <workItem from="1715866156927" duration="391000" />
+      <workItem from="1715905832380" duration="1650000" />
+      <workItem from="1715909191392" duration="6000" />
+      <workItem from="1715910132872" duration="734000" />
+      <workItem from="1715912317770" duration="286000" />
+      <workItem from="1715913454588" duration="3022000" />
+      <workItem from="1715928382914" duration="1186000" />
+      <workItem from="1715931048250" duration="8269000" />
+      <workItem from="1715939873397" duration="133000" />
+      <workItem from="1715950485039" duration="119000" />
+      <workItem from="1715952070536" duration="1898000" />
+      <workItem from="1716078793897" duration="3123000" />
+      <workItem from="1716085961636" duration="53000" />
+      <workItem from="1716087396983" duration="2823000" />
+      <workItem from="1716090732410" duration="302000" />
+      <workItem from="1716091355802" duration="554000" />
+      <workItem from="1716102400799" duration="372000" />
+      <workItem from="1716103388288" duration="24000" />
+      <workItem from="1716104008225" duration="745000" />
+      <workItem from="1716108260070" duration="593000" />
+      <workItem from="1716108925891" duration="130000" />
+      <workItem from="1716124577817" duration="1040000" />
+      <workItem from="1716125633299" duration="6083000" />
+      <workItem from="1716166796026" duration="4860000" />
+      <workItem from="1716173564582" duration="200000" />
+      <workItem from="1716175528839" duration="24000" />
+      <workItem from="1716176276656" duration="33000" />
+      <workItem from="1716176544707" duration="159000" />
+      <workItem from="1716177101417" duration="28000" />
+      <workItem from="1716177685133" duration="71000" />
+      <workItem from="1716186115438" duration="108000" />
+      <workItem from="1716186871718" duration="317000" />
+      <workItem from="1716187587402" duration="124000" />
+      <workItem from="1716187969820" duration="263000" />
+      <workItem from="1716189639681" duration="1774000" />
+      <workItem from="1716194657198" duration="12000" />
+      <workItem from="1716211252573" duration="15000" />
+      <workItem from="1716293818959" duration="885000" />
+      <workItem from="1716600127999" duration="789000" />
+      <workItem from="1716603686611" duration="36000" />
+      <workItem from="1716606738197" duration="35000" />
+      <workItem from="1716608852604" duration="29000" />
+      <workItem from="1716623111832" duration="32000" />
+      <workItem from="1716624328968" duration="52000" />
+      <workItem from="1716626579981" duration="25000" />
+      <workItem from="1716626961915" duration="118000" />
+      <workItem from="1716628341975" duration="244000" />
+      <workItem from="1716628604188" duration="18000" />
+      <workItem from="1716638482847" duration="65000" />
+      <workItem from="1716639783022" duration="443000" />
+      <workItem from="1716642119705" duration="25000" />
+      <workItem from="1716643866302" duration="2673000" />
+      <workItem from="1716646557234" duration="4000" />
+      <workItem from="1716646719421" duration="2700000" />
+      <workItem from="1716652058037" duration="1544000" />
+      <workItem from="1716653619275" duration="35000" />
+      <workItem from="1716654087174" duration="1087000" />
+      <workItem from="1716658310328" duration="197000" />
+      <workItem from="1716684219206" duration="296000" />
+      <workItem from="1716687728574" duration="331000" />
+      <workItem from="1716689777790" duration="62000" />
+      <workItem from="1717030910331" duration="2957000" />
+      <workItem from="1717033937181" duration="4586000" />
+      <workItem from="1717038806925" duration="1499000" />
+      <workItem from="1717052454834" duration="1572000" />
+      <workItem from="1717056844594" duration="49000" />
+      <workItem from="1717069649841" duration="581000" />
+      <workItem from="1717070797391" duration="5134000" />
+      <workItem from="1717076267293" duration="191000" />
+      <workItem from="1717078148297" duration="270000" />
+      <workItem from="1717078617368" duration="1894000" />
+      <workItem from="1717080666262" duration="425000" />
+      <workItem from="1717082676545" duration="68000" />
+      <workItem from="1717083747926" duration="508000" />
+      <workItem from="1717084605950" duration="73000" />
+      <workItem from="1717084902957" duration="564000" />
+      <workItem from="1717085845358" duration="107000" />
+      <workItem from="1717086689289" duration="550000" />
+      <workItem from="1717115582063" duration="305000" />
+      <workItem from="1736458096548" duration="2019000" />
+      <workItem from="1736466836609" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/raft$WebClientApplication.ic" NAME="WebClientApplication Coverage Results" MODIFIED="1710723137168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.github.raftimpl.raft.*</FILTER>
+    </SUITE>
+  </component>
+</project>
